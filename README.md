@@ -1,2 +1,2 @@
-# personal_server
-A server for all personal projects
+# Personal Server
+A server for personal projects.
